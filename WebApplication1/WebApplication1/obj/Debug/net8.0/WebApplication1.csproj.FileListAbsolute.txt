@@ -31,3 +31,6 @@ C:\Users\72017\Desktop\Proyectos\Proyecto01\WebApplication1\WebApplication1\obj\
 C:\Users\72017\Desktop\Proyectos\Proyecto01\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
 C:\Users\72017\Desktop\Proyectos\Proyecto01\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
 C:\Users\72017\Desktop\Proyectos\Proyecto01\WebApplication1\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
+C:\Users\72017\Desktop\Proyectos\Proyecto01\WebApplication1\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\72017\Desktop\Proyectos\Proyecto01\WebApplication1\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\72017\Desktop\Proyectos\Proyecto01\WebApplication1\WebApplication1\bin\Debug\net8.0\Newtonsoft.Json.dll
